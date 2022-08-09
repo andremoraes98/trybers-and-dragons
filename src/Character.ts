@@ -96,12 +96,6 @@ class Character implements Fighter {
 
     this._lifePoints = this._maxLifePoints;
   }
-
-  private aleatoryNumberBetween = (initial: number, limit: number): number => {
-    const result = Math.floor((Math.random() * (limit - initial))) + initial;
-
-    return result;
-  };
 }
 
 export default Character;
