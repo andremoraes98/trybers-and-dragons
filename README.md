@@ -1,16 +1,43 @@
-# 🚧 README em construção 🚧
+# Projeto Trybers and Dragons
 
-<!-- Olá, Tryber!
+![Project Logo](./TRYBERS_AND_DRAGONS.jpeg)
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Este foi o projeto de que exercitamos os conceitos de POO (Programação Orientada à Objetos) e SOLID.
 
-É essencial que você preencha esse documento por conta própria, ok?
+Nele, fomos responsáveis por criar um jogo de RPG, inspirado nos antigos *Dungeons & Dragons*. Para isso, criamos algumas interfaces e criamos também classes que implementam essas interfaces.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Depois de criados todos os *chars*, criamos também classes que fazem eles batalharem entre si!
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+---
 
--->
+# Habilidades
+
+- Exercitar os conceitos de SOLID;
+- Desenvolver uma aplicação através do paradigma POO;
+- Utilizar dos conceitos de Herança para criar classes genéricas;
+
+---
+
+## Requisitos
+
+Ao todo foram 10 requisitos obrigatórios:
+
+#### 1. Crie a classe `Race`;
+
+#### 2. Crie classes que herdam de `Race`;
+
+#### 3. Crie a interface `Energy`;
+
+#### 4. Crie a classe `Archetype`;
+
+#### 5. Crie classes que herdam de `Archetype`;
+
+#### 6. Crie a interface `Fighter`;
+
+#### 7. Crie a classe `Character`;
+
+#### 8. Crie a interface `SimpleFighter`;
+
+#### 9. Crie a classe `Monster`;
+
+#### 10. Crie a classe `PVP`.
